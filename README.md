@@ -13,4 +13,9 @@ Features:
 - Delete Task 
 - Update Status
 
+
+
+1ST PAGE:
 ![image.alt](https://github.com/howarddable0912-sys/project-task-manager/blob/b47a7838e35bceefea89afe675d39e2f994e3b5d/1ST%20PAGE.png)
+2ND PAGE:
+
