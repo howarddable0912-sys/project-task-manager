@@ -4,7 +4,8 @@ Student Name: Howard Jake N. Dable
 
 Course & Year: BSIT-2 SECTION 2 
 
-Database Used: SQLite 
+Database Used: SQLite
+
 Features: 
 - Add Task 
 - View Tasks 
